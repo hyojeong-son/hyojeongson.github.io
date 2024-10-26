@@ -1,16 +1,9 @@
----
-permalink: /
-title: 
-excerpt: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <!-- Centered Navigation Links -->
 <div style="text-align: center;">
-    [About Me](#bio) | [Research](#research) | [Teaching](#teaching) | [Contact](#contact)
+    <a href="#about-me">About Me</a> | 
+    <a href="#research">Research</a> | 
+    <a href="#teaching">Teaching</a> | 
+    <a href="#contact">Contact</a>
 </div>
 
 ---
