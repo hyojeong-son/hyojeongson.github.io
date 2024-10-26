@@ -34,12 +34,13 @@ redirect_from:
 <h2 id="research">Research</h2>
 <p>Here are some of my recent papers:</p>
 <ul>
-    <li>Brown, M., Hoffman, C., and Son, H., <i>Activated Random Walks on $\mathbb{Z}$ with Critical Particle Density</i> (2024+) <br>
-        <a href="https://github.com/hyojeong-son/hyojeongson.github.io/blob/master/files/arw2024poster.pdf?raw=true" target="_blank" type="application/pdf">Poster</a>
+    <li>Brown, M., Hoffman, C., and Son, H., <i>Activated Random Walks on $\mathbb{Z}$ with Critical Particle Density</i> (2024+) 
+        <a href="https://github.com/hyojeong-son/hyojeongson.github.io/blob/master/files/arw2024poster.pdf?raw=true" target="_blank" type="application/pdf">[Poster]</a>
     </li>
     <li>Hough, R., and Son, H., <i>Cut-off for Sandpiles on Tiling Graphs</i>, Annals of Probability, 49 (2), pp. 671–731. <a href="https://arxiv.org/abs/1902.04174">arXiv:1902.04174</a> (2021)</li>
     <li>Hough, R., and Son, H., <i>The Spectrum of the Abelian Sandpile Model</i>, Mathematics of Computation, 90(327), pp. 441–469. <a href="https://arxiv.org/abs/1905.07015">arXiv:1905.07015</a> (2020)</li>
 </ul>
+
 
 
 
