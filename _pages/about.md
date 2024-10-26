@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "👋🏼 Hello there, I'm Boris!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,40 @@ redirect_from:
 ---
 
 
-![Hyojeong Profile](/images/hprofile.png){: .align-right width="300px"}
-Hello! 👋 I’m Hyojeong Son, a 4th-year PhD student in the Department of Mathematics at the University of Washington, where I work with my advisor, Professor [Christopher Hoffman](http://sites.math.washington.edu/~hoffman/). I’m enthusiastic about probability theory, with a particular focus on particle models like sandpiles and activated random walks. I also enjoy exploring other areas of probability and have recently been working on stable matchings with correlated preferences. I’m eager to keep learning and growing through new ideas and interesting problems.
 
-I earned my Bachelor's degree from Stony Brook University and a Master's degree from Washington University in St. Louis. 
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
-My email address is [hjson@uw.edu](mailto:hjson@uw.edu).
+🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+
+📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+
+📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+
+# Selected Experience
+
+## 🤖 Open Source Contributions
+I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+
+Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+
+## 📜 Reimplementing and Reproducing Papers
+I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+
+To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+
+Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+
+## 👨🏻‍🔬 Professional Experience
+Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
+Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
+There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+
+## 📚 Teaching and Community Contributions
+To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+
+
+
+
+
+
