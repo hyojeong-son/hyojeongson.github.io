@@ -26,7 +26,7 @@ redirect_from:
         <p>I earned my Bachelor's degree from Stony Brook University and a Master's degree from Washington University in St. Louis.</p>
     </div>
     <div style="flex: 0.5; text-align: center;">
-        <img src="https://github.com/hyojeong-son/hyojeongson.github.io/blob/master/images/hprofile.png?raw=true" alt="Hyojeong Profile" style="border-radius: 50%; width: 250px; height: 250px;">
+        <img src="https://github.com/hyojeong-son/hyojeongson.github.io/blob/master/images/hprofile.png?raw=true" alt="Hyojeong Profile" style="width: 250px; height: 250px;">
     </div>
 </div>
 
